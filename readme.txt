@@ -1,4 +1,9 @@
+EVALUACIÓN MÓDULO MANIPULACIÓN DEL DOMO CON JAVASCRIPT 
 
 
-jquery 3.7.1
+
 boostrap  5.3.3
+
+
+para ver clonar
+https://github.com/ThDelgado/listaDePendientes.git
